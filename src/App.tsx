@@ -1,4 +1,4 @@
-import ChessBoard from "./components/chess_board";
+import ChessBoard from "./components/chess-board/chess_board";
 
 export default function App() {
   return (
